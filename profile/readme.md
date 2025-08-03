@@ -61,7 +61,7 @@ King Rittik’s GitHub Community is the epicenter for collaboration on cutting-e
 ---
 
 ## ⚖️ License
-Distributed under **MIT License**. See [LICENSE](./LICENSE) for details.
+Distributed under **MIT License**. See [LICENSE](../LICENSE) for details.
 
 ---
 
