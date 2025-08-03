@@ -56,7 +56,7 @@ King Rittik’s GitHub Community is the epicenter for collaboration on cutting-e
 - **Blog (Medium)**: [kingrittik](https://medium.com/@kingrittik) – Articles & guides
 - **Linktree**: [All Links](https://linktr.ee/king_rittik) – Everything in one place
 - **Instagram**: [@kingrittikofficial](https://instagram.com/kingrittikofficial) – Behind the scenes
-- **X (Twitter)**: [@king_rittik](https://x.com/king_rittik) – Updates & news
+- **X (Twitter)**: [@king__rittik](https://x.com/king__rittik) – Updates & news
 
 ---
 
