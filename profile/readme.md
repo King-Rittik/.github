@@ -20,7 +20,7 @@
   <a href="https://instagram.com/kingrittikofficial" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"></a>
   <a href="https://linktr.ee/king_rittik" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-All%20Links-green?style=flat-square&logo=linktree"></a>
   <a href="https://medium.com/@kingrittik" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-Read-black?style=flat-square&logo=medium"></a>
-  <a href="https://x.com/king_rittik" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-Follow-1DA1F2?style=flat-square&logo=x"></a>
+  <a href="https://x.com/king__rittik" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-Follow-1DA1F2?style=flat-square&logo=x"></a>
 </div>
 
 ---
@@ -72,7 +72,7 @@ Distributed under **MIT License**. See [LICENSE](./LICENSE) for details.
   <a href="https://discord.gg/Tmn6BKwSnr">Discord</a> ·
   <a href="https://medium.com/@kingrittik">Medium</a> ·
   <a href="https://instagram.com/kingrittikofficial">Instagram</a> ·
-  <a href="https://x.com/king_rittik">X</a>
+  <a href="https://x.com/king__rittik">X</a>
 </p>
 
 ---
