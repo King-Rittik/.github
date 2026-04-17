@@ -25,28 +25,11 @@
 
 ---
 
-## 🗂 Table of Contents
-1. [🚀 About](#-about)
-2. [✨ Features & Projects](#-features--projects)
-3. [🤝 Community Channels](#-community-channels)
-4. [⚖️ License](#️-license)
-5. [📬 Contact & Socials](#-contact--socials)
-
----
-
 ## 🚀 About
 King Rittik’s GitHub Community is the epicenter for collaboration on cutting-edge open-source projects, tutorials, and live coding sessions. Here, **developers**, **designers**, and **enthusiasts** unite to build, learn, and grow.
+You’ll find all the source code for the projects featured in my YouTube videos here.😁
 
----
-## ✨ Features & Projects
-| Project Name            | Description                                                                                         | Repo & Live Links                                                                                           |
-| ----------------------- | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Flutter Release X**   | A powerful CLI to streamline Flutter app releases—build with one command, upload to GitHub/Google Drive/AWS, generate QR codes/download links, and notify teams.                                                                 | [GitHub](https://github.com/RittikSoni/Flutter-Release-X) • [Pub](https://pub.dev/packages/flutter_release_x)  |
-| **Bloom**               | Open-source alternative to Loom for screen recording & sharing                                      | [GitHub](https://github.com/RittikSoni/Bloom)                                                                  |
-| **AI-Powered E-Justice**| AI-driven legal assistance platform                                                             | [GitHub](https://github.com/RittikSoni/AI-Powered-E-Justice) • [Live](https://ai.google.dev/competition/projects/ai-e-justice) |
-| **Mother Earth**        | SDG-themed multiplayer game with real-time chat, global leaderboards, Google Wallet integration       | [GitHub](https://github.com/RittikSoni/Mother-Earth) • [Live](https://eco-collect-32195.web.app/)                |
-
-> 👉 **Explore more**: [Rittik’s Repositories](https://github.com/RittikSoni?tab=repositories)
+> 👉 [**Explore more**](https://github.com/RittikSoni?tab=repositories)
 
 ---
 
@@ -57,11 +40,6 @@ King Rittik’s GitHub Community is the epicenter for collaboration on cutting-e
 - **Linktree**: [All Links](https://linktr.ee/king_rittik) – Everything in one place
 - **Instagram**: [@kingrittikofficial](https://instagram.com/kingrittikofficial) – Behind the scenes
 - **X (Twitter)**: [@king__rittik](https://x.com/king__rittik) – Updates & news
-
----
-
-## ⚖️ License
-Distributed under **MIT License**. See [LICENSE](../LICENSE) for details.
 
 ---
 
