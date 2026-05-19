@@ -39,7 +39,7 @@ You’ll find all the source code for the projects featured in my YouTube videos
 - **Blog (Medium)**: [kingrittik](https://medium.com/@kingrittik) – Articles & guides
 - **Linktree**: [All Links](https://linktr.ee/king_rittik) – Everything in one place
 - **Instagram**: [@kingrittikofficial](https://instagram.com/kingrittikofficial) – Behind the scenes
-- **X (Twitter)**: [@king__rittik](https://x.com/king__rittik) – Updates & news
+- **X (Twitter)**: [@king__rittik](https://x.com/thekingrittik) – Updates & news
 
 ---
 
@@ -50,7 +50,7 @@ You’ll find all the source code for the projects featured in my YouTube videos
   <a href="https://discord.gg/Tmn6BKwSnr">Discord</a> ·
   <a href="https://medium.com/@kingrittik">Medium</a> ·
   <a href="https://instagram.com/kingrittikofficial">Instagram</a> ·
-  <a href="https://x.com/king__rittik">X</a>
+  <a href="https://x.com/thekingrittik">X</a>
 </p>
 
 ---
