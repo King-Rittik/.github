@@ -20,7 +20,7 @@
   <a href="https://instagram.com/kingrittikofficial" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram"></a>
   <a href="https://linktr.ee/king_rittik" target="_blank"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-All%20Links-green?style=flat-square&logo=linktree"></a>
   <a href="https://medium.com/@kingrittik" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-Read-black?style=flat-square&logo=medium"></a>
-  <a href="https://x.com/king__rittik" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-Follow-1DA1F2?style=flat-square&logo=x"></a>
+  <a href="https://x.com/thekingrittik" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-Follow-1DA1F2?style=flat-square&logo=x"></a>
 </div>
 
 ---
@@ -39,7 +39,7 @@ You’ll find all the source code for the projects featured in my YouTube videos
 - **Blog (Medium)**: [kingrittik](https://medium.com/@kingrittik) – Articles & guides
 - **Linktree**: [All Links](https://linktr.ee/king_rittik) – Everything in one place
 - **Instagram**: [@kingrittikofficial](https://instagram.com/kingrittikofficial) – Behind the scenes
-- **X (Twitter)**: [@king__rittik](https://x.com/thekingrittik) – Updates & news
+- **X (Twitter)**: [@thekingrittik](https://x.com/thekingrittik) – Updates & news
 
 ---
 
